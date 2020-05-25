@@ -1,8 +1,6 @@
 # Secrets
-auth.py
-o365_token.txt
 *token*
-*auth*
+*creds*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
